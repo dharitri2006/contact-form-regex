@@ -1,5 +1,8 @@
 # Contact Form with Validation
 
+## 🌐 Live Demo
+[Click here to view project] https://dharitri2006.github.io/contact-form-regex/
+
 ## Project Description
 This project is a responsive Contact Form built using HTML, Bootstrap, CSS, and JavaScript.  
 It performs client-side validation for Name, Email, and Message fields.
